@@ -1,6 +1,6 @@
 # codespace
 
-This template should help get you started developing with Vue 3 in Vite.
+This template should help get you started developing with Vue 3 in Vite with Pinia Store, Vue Router and Tailwind css already configured.
 
 ## Recommended IDE Setup
 
